@@ -1,0 +1,13 @@
+# Logs et rapports générés
+dns_check_*.log
+*.log
+
+# Fichiers temporaires
+*.tmp
+*.temp
+*.swp
+*.bak
+
+# Configurations locales
+config.local
+.env
